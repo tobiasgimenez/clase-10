@@ -26,7 +26,7 @@ var totaldinero = preciohamburguesa + preciorefresco;
 // Problema 4
 var cantGalletas = 5;
 var cantCajas = 4;
-var totalGalletas = cantgalletas * cantCajas;
+var totalGalletas = cantGalletas * cantCajas;
 
 // Problema 5
 var distanciaToledo = 2.6; //Kilometros
